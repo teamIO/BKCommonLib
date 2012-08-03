@@ -3,8 +3,8 @@ package com.bergerkiller.bukkit.common;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
-import com.bergerkiller.bukkit.common.utils.ItemUtil;
 import com.bergerkiller.bukkit.common.utils.EnumUtil;
+import com.bergerkiller.bukkit.common.utils.ItemUtil;
 import com.bergerkiller.bukkit.common.utils.StringUtil;
 
 public class ItemParser {

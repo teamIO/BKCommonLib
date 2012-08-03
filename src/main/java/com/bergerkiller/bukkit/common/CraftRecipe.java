@@ -3,19 +3,19 @@ package com.bergerkiller.bukkit.common;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.bukkit.Material;
-import org.bukkit.craftbukkit.inventory.CraftInventory;
-import org.bukkit.craftbukkit.inventory.CraftItemStack;
-
-import com.bergerkiller.bukkit.common.utils.BlockUtil;
-import com.bergerkiller.bukkit.common.utils.ItemUtil;
-
 import net.minecraft.server.CraftingRecipe;
 import net.minecraft.server.IInventory;
 import net.minecraft.server.ItemStack;
 import net.minecraft.server.MathHelper;
 import net.minecraft.server.ShapedRecipes;
 import net.minecraft.server.ShapelessRecipes;
+
+import org.bukkit.Material;
+import org.bukkit.craftbukkit.inventory.CraftInventory;
+import org.bukkit.craftbukkit.inventory.CraftItemStack;
+
+import com.bergerkiller.bukkit.common.utils.BlockUtil;
+import com.bergerkiller.bukkit.common.utils.ItemUtil;
 
 public class CraftRecipe {
 	

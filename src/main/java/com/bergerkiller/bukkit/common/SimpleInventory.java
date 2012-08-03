@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
+import net.minecraft.server.EntityHuman;
+import net.minecraft.server.IInventory;
+import net.minecraft.server.ItemStack;
+
 import org.bukkit.craftbukkit.entity.CraftHumanEntity;
 import org.bukkit.craftbukkit.inventory.CraftInventory;
 import org.bukkit.craftbukkit.inventory.CraftItemStack;
@@ -12,10 +16,6 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;
 
 import com.bergerkiller.bukkit.common.utils.ItemUtil;
-
-import net.minecraft.server.EntityHuman;
-import net.minecraft.server.IInventory;
-import net.minecraft.server.ItemStack;
 
 public class SimpleInventory implements IInventory {
 

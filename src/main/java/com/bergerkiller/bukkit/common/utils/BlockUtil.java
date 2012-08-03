@@ -23,9 +23,9 @@ import org.bukkit.block.Furnace;
 import org.bukkit.block.Sign;
 import org.bukkit.craftbukkit.CraftWorld;
 import org.bukkit.material.Attachable;
+import org.bukkit.material.Directional;
 import org.bukkit.material.MaterialData;
 import org.bukkit.material.Rails;
-import org.bukkit.material.Directional;
 
 public class BlockUtil {
     

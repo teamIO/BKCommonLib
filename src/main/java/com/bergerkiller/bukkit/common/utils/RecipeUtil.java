@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import net.minecraft.server.CraftingManager;
 import net.minecraft.server.CraftingRecipe;
 import net.minecraft.server.FurnaceRecipes;
-import net.minecraft.server.CraftingManager;
 import net.minecraft.server.IInventory;
 import net.minecraft.server.ItemStack;
 
